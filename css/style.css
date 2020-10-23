@@ -1,0 +1,79 @@
+* {
+    padding: 0;
+    margin: 0;
+    background: black;
+    color: blanchedalmond;
+}
+
+.caret {
+    background: white;
+}
+
+.container {
+    width: 500px;
+    height: auto;
+    max-width: 800px;
+    margin: 0 auto;
+    margin-left: 500px;
+}
+
+.card-content {
+    text-align: center;
+    border-radius: 10px;
+    border-left: solid 1px blue;
+}
+
+.card-title {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Merriweather', serif;
+    margin-left: 0;
+    width: 260px;
+    padding: 0;
+}
+
+.row {
+    border-radius: 10px;
+    width: 400px;
+}
+
+.col s8 {
+    border-radius: 5px;
+    border-top: solid 2px orange;
+    width: 700px;
+}
+
+#amount {
+    border-radius: 5px;
+    border-top: solid 2px orange;
+}
+
+.select-dropdown {
+    border-radius: 5px;
+    border-bottom: solid 2px orange;
+    width: auto;
+}
+
+.select-wrapper {
+    border-radius: 5px;
+    border-top: solid 2px orange;
+}
+
+.card-header {
+    border-radius: 10px;
+    border-top: solid 2px orange;
+    border-bottom: solid 2px green;
+    text-align: center;
+}
+
+#outputResult {
+    border-radius: 10px;
+    border-bottom: solid 2px orange;
+    border-top: solid 2px orange;
+}
+
+footer {
+    text-align: center;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Merriweather', serif;
+    
+}
